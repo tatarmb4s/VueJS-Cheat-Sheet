@@ -1,90 +1,117 @@
 # VueJS-Cheat-Sheet
 From React to Vue
-
+https://www.youtube.com/watch?v=VldVWN2i710
 ## Table of Contents
 
-- [Declare State](#declare-state)
-- [Update State](#update-state)
-- [Computed State](#computed-state)
-- [Minimal Template](#minimal-template)
-- [Styling](#styling)
-- [Looping](#looping)
-- [Event Handling](#event-handling)
-- [DOM Ref](#dom-ref)
-- [Conditional Rendering](#conditional-rendering)
-- [Lifecycle: On Mount](#lifecycle-on-mount)
-- [Lifecycle: On Unmount](#lifecycle-on-unmount)
-- [Props](#props)
-- [Emit to Parent](#emit-to-parent)
-- [Slots](#slots)
-- [Context](#context)
-- [Form Input](#form-input)
+- [VueJS-Cheat-Sheet](#vuejs-cheat-sheet)
+  - [Table of Contents](#table-of-contents)
+    - [Declare State](#declare-state)
+    - [Update State](#update-state)
+    - [Computed State](#computed-state)
+    - [Minimal Template](#minimal-template)
+    - [Styling](#styling)
+    - [Looping](#looping)
+    - [Event Handling](#event-handling)
+    - [DOM Ref](#dom-ref)
+    - [Conditional Rendering](#conditional-rendering)
+    - [Lifecycle: On Mount](#lifecycle-on-mount)
+    - [Lifecycle: On Unmount](#lifecycle-on-unmount)
+    - [Props](#props)
+    - [Emit to Parent](#emit-to-parent)
+    - [Slots](#slots)
+    - [Context](#context)
+    - [Form Input](#form-input)
+  - [Additional Resources](#additional-resources)
 
 ---
 
 ### Declare State
 
-![Declare State](img/01-declare-state.png)
+![Declare State](img/1.%20Declare%20State.png)
 
 ### Update State
 
-![Update State](img/02-update-state.png)
+![Update State](img/2.%20Update%20State.png)
 
 ### Computed State
 
-![Computed State](img/03-computed-state.png)
+![Computed State](img/3.%20ComputedState.png)
 
 ### Minimal Template
 
-![Minimal Template](img/01-declare-state.png)
+![Minimal Template](img/1.%20Declare%20State.png)
 
 ### Styling
 
-![Styling](img/04-styling.png)
+![Styling](img/4.%20Styling.png)
 
 ### Looping
 
-![Looping](img/05-looping.png)
+![Looping](img/5.%20Looping.png)
 
 ### Event Handling
 
-![Event Handling](img/06-event-handling.png)
+![Event Handling](img/6.%20Event%20Handling.png)
 
 ### DOM Ref
 
-![DOM Ref](img/07-dom-ref.png)
+![DOM Ref](img/7.%20DOM%20Ref.png)
 
 ### Conditional Rendering
 
-![Conditional Rendering](img/08-conditional-rendering.png)
+![Conditional Rendering](img/8.%20Conditional%20Rendering.png)
 
 ### Lifecycle: On Mount
 
-![Lifecycle: On Mount](img/09-lifecycle-on-mount.png)
+![Lifecycle: On Mount](img/9.%20Lifecycle%20OnMount.png)
 
 ### Lifecycle: On Unmount
 
-![Lifecycle: On Unmount](img/10-lifecycle-on-unmount.png)
+![Lifecycle: On Unmount](img/10.%20Lifecycle%20OnUnMount.png)
 
 ### Props
 
-![Props](img/11-props.png)
+**React:**
+
+![Props React](img/11.%20Props-React.png)
+
+**Vue:**
+
+![Props Vue](img/12.%20Props-Vue.png)
 
 ### Emit to Parent
 
-![Emit to Parent](img/12-emit-to-parent.png)
+**React:**
+
+![Emit to Parent React](img/13.%20Emit%20To%20Parent-React.png)
+
+**Vue:**
+
+![Emit to Parent Vue](img/13.%20Emit%20To%20Parent-Vue.png)
 
 ### Slots
 
-![Slots](img/13-slots.png)
+**React:**
+
+![Slots React](img/14.%20Slots-React.png)
+
+**Vue:**
+
+![Slots Vue](img/14.%20Slots-Vue.png)
 
 ### Context
 
-![Context](img/14-context.png)
+**React:**
+
+![Context React](img/15.%20Context-React.png)
+
+**Vue:**
+
+![Context Vue](img/15.%20Context-Vue.png)
 
 ### Form Input
 
-![Form Input](img/15-form-input.png)
+![Form Input](img/16.%20Form%20Input.png)
 
 ---
 
